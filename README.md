@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi! 👋 My name is Andrei. Welcome! ✌️
+About me
+- I am 48 year old programmer from Astrakhan 💻
+- I learn Java at [Job4j](https://job4j.ru/) ☕
+- 
 <!--
 **andreisemin/andreisemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
