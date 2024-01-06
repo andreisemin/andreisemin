@@ -1,6 +1,5 @@
 ### Hi! 👋 My name is Andrei. Welcome! ✌️
 About me
-- I am 47 year old programmer from Astrakhan 💻
 - I learn Java at [Job4j](https://job4j.ru/) ☕
 - 
 <!--
